@@ -1,0 +1,8 @@
+C:\Programacion V\CSHSoftware\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Programacion V\CSHSoftware\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Programacion V\CSHSoftware\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Programacion V\CSHSoftware\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Programacion V\CSHSoftware\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Programacion V\CSHSoftware\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Programacion V\CSHSoftware\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Programacion V\CSHSoftware\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
