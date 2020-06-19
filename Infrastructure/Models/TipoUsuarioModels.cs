@@ -8,7 +8,7 @@ namespace Infrastructure.Models
     {
         public int id { get; set; }
         public string tipoUsuario { get; set; }
-    }
 
-           
+        public virtual IEnumerable<UsuarioModels> Usuario { get; set; }
+    }
 }

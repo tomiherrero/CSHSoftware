@@ -53,3 +53,8 @@ C:\Programacion V\CSHSoftware\CSHSoftware\bin\Debug\netcoreapp3.1\runtimes\win-x
 C:\Programacion V\CSHSoftware\CSHSoftware\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Programacion V\CSHSoftware\CSHSoftware\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Programacion V\CSHSoftware\CSHSoftware\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion V\CSHSoftware\CSHSoftware\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programacion V\CSHSoftware\CSHSoftware\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Programacion V\CSHSoftware\CSHSoftware\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Programacion V\CSHSoftware\CSHSoftware\obj\Debug\netcoreapp3.1\CSHSoftwareWeb.csproj.CoreCompileInputs.cache
+C:\Programacion V\CSHSoftware\CSHSoftware\obj\Debug\netcoreapp3.1\CSHSoftwareWeb.MvcApplicationPartsAssemblyInfo.cache
